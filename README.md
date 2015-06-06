@@ -1,2 +1,2 @@
 # OrganicNomenclature
-A simple program that takes a text input that represents an unbranched alkane and turns it into a SMILES format.
+A simple program that takes a text input that represents an unbranched alkane and turns it into a [SMILES](http://www.daylight.com/meetings/summerschool98/course/dave/smiles-intro.html) format. It currently supports alkanes of length up to 10, and can handle cyclic compounds. You can see a visualization of a compound [here](http://jacobdurrant.com/2014/05/20/online-smiles-string-to-3d-visualizer/).
